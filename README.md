@@ -4929,6 +4929,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ViaFrei](https://viafrei.de) `https://mcp.viafrei.de/mcp`
   [![ViaFrei MCP connector](https://glama.ai/mcp/connectors/de.viafrei.mcp/via-frei/badges/score.svg)](https://glama.ai/mcp/connectors/de.viafrei.mcp/via-frei)
   🔓 - Germany's open mobility data: Autobahn traffic, DB trains, local transit, fuel, EV charging, parking and DWD warnings.
+- [Viajadorum](https://viajadorum.com/ai-travel-mcp-server) `https://viajadorum.com/api/mcp`
+  [![Viajadorum MCP connector](https://glama.ai/mcp/connectors/com.viajadorum/viajadorum/badges/score.svg)](https://glama.ai/mcp/connectors/com.viajadorum/viajadorum)
+  🔑 - Manage travel itineraries, flights, hotels, loyalty points, 48h check-in alerts and passport rules in 40 countries.
 - [VoyageHacks](https://voyagehacks.com/en/mcp-server/) `https://voyagehacks.com/mcp`
   [![VoyageHacks MCP connector](https://glama.ai/mcp/connectors/com.voyagehacks/travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.voyagehacks/travel)
   🔓 - Search fact-checked travel guides in 11 languages, build packing kits, and get booking links.
